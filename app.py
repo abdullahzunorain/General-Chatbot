@@ -2,7 +2,7 @@ import gradio as gr
 from groq import Groq
 import os
 
-key = os.getenv("groq")
+key = os.getenv("groq_api")
 client = Groq(api_key = key)
 
 def chat(message, history):
