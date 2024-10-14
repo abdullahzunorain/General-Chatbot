@@ -1,2 +1,1 @@
-# General-Chatbot
-a general purpose chatbot
+# Simple Calculator
